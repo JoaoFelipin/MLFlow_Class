@@ -1,0 +1,12 @@
+creation_timestamp: 1706742967585
+current_stage: None
+description: null
+last_updated_timestamp: 1706742967585
+name: GradientBoostingRegressor
+run_id: 00e18c91daf549439edb8e07482363f7
+run_link: null
+source: file:///d:/Desktop/Scripts/MLFlow_Class/notebooks/mlruns/315046187671784937/00e18c91daf549439edb8e07482363f7/artifacts/tuned_model_pipeline
+status: READY
+status_message: null
+user_id: null
+version: 3

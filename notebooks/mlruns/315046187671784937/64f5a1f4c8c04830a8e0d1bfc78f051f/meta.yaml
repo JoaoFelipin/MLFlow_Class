@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Desktop/Scripts/MLFlow_Class/notebooks/mlruns/315046187671784937/64f5a1f4c8c04830a8e0d1bfc78f051f/artifacts
+end_time: 1706742906569
+entry_point_name: ''
+experiment_id: '315046187671784937'
+lifecycle_stage: active
+run_id: 64f5a1f4c8c04830a8e0d1bfc78f051f
+run_name: orderly-lamb-933
+run_uuid: 64f5a1f4c8c04830a8e0d1bfc78f051f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706742906221
+status: 4
+tags: []
+user_id: João Eduardo Felipin
